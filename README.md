@@ -57,3 +57,7 @@ En utilisant la technologie que l'on souhaite. Ici j'ai utilisé Wordpress
 --------------------
 
 https://samuel-leonard-seo.be/beezou-asbl/
+
+ancien site de Beezou
+
+https://www.beezou.be/
