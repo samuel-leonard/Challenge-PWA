@@ -1,7 +1,7 @@
 # Challenge-PWA
 
 PWA
-** Consignes:
+## Consignes:
 -------------
 - Repo: **Challenge PWA**
 - Durée: **1 jour**
@@ -9,20 +9,20 @@ PWA
 - Herbergement du projet: **Oui**
 - Mode: **Solo**
 
-Mission
+## Mission
 
 1. Choisir une ASBL avec un site viellot.
 2. Réaliser un site one-page pour remplacer celui-ci sur base des informations présentes.
 3. Transformer le site en PWA.
 
-Etapes
+## Etapes
 
 1. Créer un repo.
 2. Etudie ce que l'on te demande.
 3. Identifie les technologies.
 4. Design et UX.
 
-Contraintes
+## Contraintes
 - Techno : au choix !!!!!!!!!!!!!!
 - Hébergé.
 - Design et UX.
@@ -30,7 +30,7 @@ Contraintes
 - 13/07 17h00: Last Commit.
 - Projet **OBLIGATOIRE**
 
-Délivrable
+## Délivrable
 
 1. Publie ton code source sur Github.
 2. Pour le readme:
@@ -40,20 +40,20 @@ Délivrable
 
 
 
-Ressources
+## Ressources
 https://dev.to/pixeline/the-easy-way-to-turn-a-website-into-a-progressive-web-app-77g
 
-**Pourquoi? 
+## Pourquoi? 
 ------------
 
 Dans le cadre de la formation de développeur web Chez BeCode charleroi apprendre à créer un one page pour une association avec une certaine contrainte au niveau du temps. rendre un site PwA.
 
-**comment?
+## comment?
 ----------
 
 En utilisant la technologie que l'on souhaite. Ici j'ai utilisé Wordpress
 
-**Lien vers la page?
+## Lien vers la page?
 --------------------
 
 https://samuel-leonard-seo.be/beezou-asbl/
