@@ -43,17 +43,17 @@ Délivrable
 Ressources
 https://dev.to/pixeline/the-easy-way-to-turn-a-website-into-a-progressive-web-app-77g
 
-** Pourquoi? 
+**Pourquoi? 
 ------------
 
 Dans le cadre de la formation de développeur web Chez BeCode charleroi apprendre à créer un one page pour une association avec une certaine contrainte au niveau du temps. rendre un site PwA.
 
-** comment
+**comment?
 ----------
 
 En utilisant la technologie que l'on souhaite. Ici j'ai utilisé Wordpress
 
-** Lien vers la page
+**Lien vers la page?
 --------------------
 
 https://samuel-leonard-seo.be/beezou-asbl/
